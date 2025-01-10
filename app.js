@@ -7,7 +7,7 @@ const winPointOption = document.querySelector('#winpoint');
 
 let p1Score = 0;
 let p2Score = 0;
-let winPoint = 5;
+let winPoint = 0;
 let isGameOver = false;
 
 function reset(){
